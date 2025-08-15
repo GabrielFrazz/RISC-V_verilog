@@ -215,7 +215,11 @@ sudo apt install iverilog gtkwave python3 make
 1. **Clone/Navegue para o diretório do projeto**
 
 ```bash
-cd /home/bielf/college/OAC-II/stable/tp1
+git clone https://github.com/GabrielFrazz/RISC-V_verilog.git
+```
+
+```bash
+cd RISC-V_verilog/
 ```
 
 2. **Assemble o programa de teste**
